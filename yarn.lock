@@ -6859,7 +6859,7 @@ __metadata:
     "@types/pascalcase": 1.0.1
     "@types/react": 18.0.33
     "@types/react-dom": 18.0.11
-    "@types/testing-library__jest-dom": 5.14.5
+    "@types/testing-library__jest-dom": 5.14.9
     core-js: 3.30.0
     graphql: 16.6.0
     jest: 29.5.0
@@ -7241,7 +7241,7 @@ __metadata:
     "@types/prop-types": 15.7.5
     "@types/react": 18.0.33
     "@types/react-dom": 18.0.11
-    "@types/testing-library__jest-dom": 5.14.5
+    "@types/testing-library__jest-dom": 5.14.9
     core-js: 3.30.0
     graphql: 16.6.0
     graphql-tag: 2.12.6
@@ -9848,12 +9848,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/testing-library__jest-dom@npm:5.14.5, @types/testing-library__jest-dom@npm:^5.9.1":
-  version: 5.14.5
-  resolution: "@types/testing-library__jest-dom@npm:5.14.5"
+"@types/testing-library__jest-dom@npm:5.14.9, @types/testing-library__jest-dom@npm:^5.9.1":
+  version: 5.14.9
+  resolution: "@types/testing-library__jest-dom@npm:5.14.9"
   dependencies:
     "@types/jest": "*"
-  checksum: f4c82418fdc129806d413d48064049ab3b099635dad06c40be2188134d15135b0b053044de7b0e032867b1ec754e7446046d8fdf6863b9454f8f757f1cac702d
+  checksum: 91f7b15e8813b515912c54da44464fb60ecf21162b7cae2272fcb3918074f4e1387dc2beca1f5041667e77b76b34253c39675ea4e0b3f28f102d8cc87fdba9fa
   languageName: node
   linkType: hard
 
