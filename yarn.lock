@@ -6739,7 +6739,7 @@ __metadata:
     "@babel/traverse": 7.23.2
     "@iarna/toml": 2.2.5
     "@types/babel__core": 7.20.1
-    "@types/findup-sync": 4.0.2
+    "@types/findup-sync": 4.0.5
     "@types/fs-extra": 11.0.1
     "@types/jest": 29.5.0
     "@types/jscodeshift": 0.11.6
@@ -6961,7 +6961,7 @@ __metadata:
     "@redwoodjs/project-config": 4.0.0
     "@types/babel-plugin-tester": 9.0.6
     "@types/babel__core": 7.20.1
-    "@types/findup-sync": 4.0.2
+    "@types/findup-sync": 4.0.5
     "@types/fs-extra": 11.0.1
     babel-plugin-graphql-tag: 3.3.0
     babel-plugin-polyfill-corejs3: 0.7.1
@@ -7027,7 +7027,7 @@ __metadata:
     "@babel/core": 7.21.3
     "@babel/runtime-corejs3": 7.21.0
     "@iarna/toml": 2.2.5
-    "@types/findup-sync": 4.0.2
+    "@types/findup-sync": 4.0.5
     core-js: 3.30.0
     deepmerge: 4.3.1
     dependency-cruiser: 12.11.1
@@ -9183,12 +9183,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/findup-sync@npm:4.0.2":
-  version: 4.0.2
-  resolution: "@types/findup-sync@npm:4.0.2"
+"@types/findup-sync@npm:4.0.5":
+  version: 4.0.5
+  resolution: "@types/findup-sync@npm:4.0.5"
   dependencies:
-    "@types/micromatch": "*"
-  checksum: f7c169a5fa48aa0f5e4aba25cdff412aa1817f7b60c62a9c915325b852177431f1ecffcb29537799c438ecc192e87748aabf67b478d677cc2811a6732fbd7849
+    "@types/micromatch": ^4.0.0
+  checksum: 1ce1cec9febafbb266c4ceb99d2d2324b02896a3a578ae8dc160bcd5f3c84cf629b41197d7be53a13a10eaf0979c3f96947f978c5cfbc056ccf9eecf4938118f
   languageName: node
   linkType: hard
 
@@ -9517,12 +9517,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/micromatch@npm:*":
-  version: 4.0.2
-  resolution: "@types/micromatch@npm:4.0.2"
+"@types/micromatch@npm:^4.0.0":
+  version: 4.0.7
+  resolution: "@types/micromatch@npm:4.0.7"
   dependencies:
     "@types/braces": "*"
-  checksum: e557324460e658283778c77d0f8995ee95e371c4fd54474b3186e947486427cc4af66b841393304b65c09a7bb36710158260db7a7cf761384e1a9a728e82e6f4
+  checksum: 972cdc349b611f18e3e43123865a46c053490f16cbd1d97e95c7d04ff7c8aef69bbae831249518d374e7bc0378e51ba088da9950422fbfced4b5bedde9738d13
   languageName: node
   linkType: hard
 
