@@ -8974,12 +8974,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/babel__generator@npm:*, @types/babel__generator@npm:7.6.4":
-  version: 7.6.4
-  resolution: "@types/babel__generator@npm:7.6.4"
+"@types/babel__generator@npm:*, @types/babel__generator@npm:7.6.8":
+  version: 7.6.8
+  resolution: "@types/babel__generator@npm:7.6.8"
   dependencies:
     "@babel/types": ^7.0.0
-  checksum: e0051b450e4ba2df0a7e386f08df902a4e920f6f8d6f185d69ddbe9b0e2e2d3ae434bb51e437bc0fca2a9a0f5dc4ca44d3a1941ef75e74371e8be5bf64416fe4
+  checksum: f0ba105e7d2296bf367d6e055bb22996886c114261e2cb70bf9359556d0076c7a57239d019dee42bb063f565bade5ccb46009bce2044b2952d964bf9a454d6d2
   languageName: node
   linkType: hard
 
@@ -27838,7 +27838,7 @@ __metadata:
     "@testing-library/react": 14.0.0
     "@testing-library/user-event": 14.4.3
     "@tsd/typescript": 5.0.3
-    "@types/babel__generator": 7.6.4
+    "@types/babel__generator": 7.6.8
     "@types/fs-extra": 11.0.1
     "@types/jest": 29.5.0
     "@types/jscodeshift": 0.11.6
