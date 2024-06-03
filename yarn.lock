@@ -6959,7 +6959,7 @@ __metadata:
     "@graphql-codegen/typescript-resolvers": 3.1.1
     "@redwoodjs/graphql-server": 4.0.0
     "@redwoodjs/project-config": 4.0.0
-    "@types/babel-plugin-tester": 9.0.6
+    "@types/babel-plugin-tester": 9.0.10
     "@types/babel__core": 7.20.1
     "@types/findup-sync": 4.0.2
     "@types/fs-extra": 11.0.1
@@ -8925,13 +8925,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/babel-plugin-tester@npm:9.0.6":
-  version: 9.0.6
-  resolution: "@types/babel-plugin-tester@npm:9.0.6"
+"@types/babel-plugin-tester@npm:9.0.10":
+  version: 9.0.10
+  resolution: "@types/babel-plugin-tester@npm:9.0.10"
   dependencies:
     "@types/babel__core": "*"
     "@types/prettier": ^2.0.0
-  checksum: 475242a812bf22f09798a0a662e59f46b9aefe9d3c931ca7d9c55d79812a35a3017dd68b11b519165efd7e8708dd9618340727d5ac2e07c5dc13f311df39c23e
+  checksum: 5f593868f2ec94dfe1eeaefd787936805f17c2964c1c93d9b28f1b389a75d0d2ed3c2f69b3e4bd119284a8273bf4279f249e4b4c9933507a60db01e16338180a
   languageName: node
   linkType: hard
 
